@@ -8,6 +8,6 @@ package shipping;
  *
  * @author tukan
  */
-public class ShippingMethod {
-    
+public abstract class ShippingMethod {
+    abstract double calculateCost(double weight);   
 }

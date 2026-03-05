@@ -8,6 +8,6 @@ package shipping;
  *
  * @author tukan
  */
-public class PlaneDel {
+public class BikeDelivery {
     
 }
